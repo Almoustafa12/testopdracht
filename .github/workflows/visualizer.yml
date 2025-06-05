@@ -16,4 +16,4 @@
   with:
     name: "my-diagram"
     path: "downloads"
-should_push: false
+    should_push: false
